@@ -6,7 +6,7 @@
 ## 4. Type "pip install BeautifulSoup4" without quotes and hit enter.
 ## 5. Type "pip install pyfiglet" without quotes and hit enter.
 ## 6. in terminal, cd to the path of this file. for example: "cd c:/users/donovan/downloads" without quotes then hit enter.
-## 7. type "python statsbell.py" and hit enter.
+## 7. type "python statsbell2.py" and hit enter.
 ##b 8. The command line app with now run and ask you to pick which website you want to monitor...
 ## Pick one, then paste the link to the YouTube video, Instructables tutorial, or kickstarter project you want to monitor.
 ## The app will now monitor the page your selected. When the amount you are monitoring increases, it will beep and disply the new amount.
