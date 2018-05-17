@@ -1,5 +1,5 @@
 # statsbell
-python command line app for monitoring stats on your favorite websites.
+Command line app for monitoring stats on your favorite websites.
 Tested only on Windows 7 with Python 2.7.x!
 # TUTORIAL:
 1. download and install Python 2.7.x from python.org  - Make sure you enable "add to path" during installation!
