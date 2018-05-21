@@ -11,6 +11,6 @@ Tested only on Windows 7 with Python 2.7.x!
 7. type "python statsbell2.py" and hit enter.
 8. The command line app will now run and ask you to pick which website you want to monitor...
 Pick one, then paste the link to the YouTube video, Instructables tutorial, Facebook page, or Kickstarter project you want to monitor.
-The app will now monitor the page your selected. When the amount you are monitoring increases, it will beep and display the new amount.
+The app will now monitor the page you have selected. When the amount you are monitoring increases, it will beep and display the new amount.
 To quit the app, just close the command line.
 
