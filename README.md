@@ -1,5 +1,5 @@
 # Stats Bell
-Command line app for monitoring stats on your favorite websites.
+Command line app for monitoring stats such as Kickstarter pledges, YouTube views, Instructables tutorial views, or Facebook likes.
 Tested only on Windows 7 with Python 2.7.x!
 # TUTORIAL:
 1. download and install Python 2.7.x from python.org  - Make sure you enable "add to path" during installation!
