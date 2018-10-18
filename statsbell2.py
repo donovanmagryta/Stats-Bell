@@ -55,7 +55,9 @@ def pageCrawler():
 	    data = soup.find_all(attrs={"class": "count view-count"})
 	elif choice == 4 :
 	    data = soup.find_all(attrs={"class": "_52id _50f5 _50f7"})
-	result = data[0].text
+	import re
+	outp = re.sub('[^0-9]','', data)
+	result = outp[0].text
 	## If amount changes, print new amount in big font, and play notification beeps ##
 	if amount != result :
 		amount = result
